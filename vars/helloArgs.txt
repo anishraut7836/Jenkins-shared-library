@@ -1,0 +1,6 @@
+1. helloArgs(name)
+prints "Hello " and the name passed in.
+
+2. goodbyeWorld(name)
+
+prints "Goodbye " and the name passed in.
